@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old and studying from Brazil
+### - I'm Davi, 19 years old and studying from Brazil
 
 <img hight="200" width="300" alt="therock" align="right" src="https://i.pinimg.com/736x/ac/9f/51/ac9f5144a0db0279f7a307dd200aca7a.jpg">
 
