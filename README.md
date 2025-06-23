@@ -35,6 +35,7 @@
 <h3>Back-end & Front-end</h3>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=ffde57," alt="python"/></a>
 <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/></a>
+<a href="https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="cplusplus"/></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java"/></a>
 
 </br>
