@@ -18,6 +18,7 @@
 ### - Learning :
 - ✨ Python Libraries
 - ✨ Some Java Stuff
+- ✨ PHP
 
 ### - Hobbies : 
 - ✨ Gaming
